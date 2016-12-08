@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4F0DC230-9E7B-4545-8020-A57FFD0C101D}|Default">
+  <MonoDevelop.Ide.ItemProperties.People.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="People/Models/Person.cs">
+    <Files>
+      <File FileName="People/People.cs" Line="34" Column="27" />
+      <File FileName="Droid/FileAccessHelper.cs" Line="10" Column="43" />
+      <File FileName="iOS/FileAccessHelper.cs" Line="8" Column="24" />
+      <File FileName="iOS/AppDelegate.cs" Line="17" Column="41" />
+      <File FileName="Droid/MainActivity.cs" Line="27" Column="34" />
+      <File FileName="People/Models/Person.cs" Line="15" Column="3" />
+      <File FileName="People/Assets/PersonRepository.cs" Line="42" Column="5" />
+      <File FileName="People/MainPage.xaml.cs" Line="26" Column="4" />
+      <File FileName="People/MainPage.xaml" Line="24" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.People.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3927E2B-B893-4D95-B577-90D5F84EBF6D" />
+  <MultiItemStartupConfigurations />
+</Properties>
